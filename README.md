@@ -1,2 +1,2 @@
 # vi_fund_test
- An intenrship assessment I completed for the VI Fund team.
+ An internship assessment I completed for the VI Fund team, predicting quarterly stock price return using 63 features. The project heavily emphasised coming up with creative feature engineering techniques to fill missing financial data using pandas and numpy. After cleaning the dataset, I utilised Linear Regression, Random Forest and CatBoostRegressor for the predictive modelling portion and identified the most important features for determining quarterly stock price returns. The final R^2 achieved was 13%. In the future, I'd like to explore hyperparametric tuning for improving model performance.
